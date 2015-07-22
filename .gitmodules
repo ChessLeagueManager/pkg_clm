@@ -1,0 +1,24 @@
+[submodule "packages/com_clm"]
+	path = packages/com_clm
+	url = https://github.com/ChessLeagueManager/com_clm.git
+[submodule "packages/mod_clm"]
+	path = packages/mod_clm
+	url = https://github.com/ChessLeagueManager/mod_clm.git
+[submodule "packages/mod_clm_archiv"]
+	path = packages/mod_clm_archiv
+	url = https://github.com/ChessLeagueManager/mod_clm_archiv.git
+[submodule "packages/mod_clm_dwz"]
+	path = packages/mod_clm_dwz
+	url = https://github.com/ChessLeagueManager/mod_clm_dwz.git
+[submodule "packages/mod_clm_log"]
+	path = packages/mod_clm_log
+	url = https://github.com/ChessLeagueManager/mod_clm_log.git
+[submodule "packages/mod_clm_minitab"]
+	path = packages/mod_clm_minitab
+	url = https://github.com/ChessLeagueManager/mod_clm_minitab.git
+[submodule "packages/mod_clm_termine"]
+	path = packages/mod_clm_termine
+	url = https://github.com/ChessLeagueManager/mod_clm_termine.git
+[submodule "packages/mod_clm_turnier"]
+	path = packages/mod_clm_turnier
+	url = https://github.com/ChessLeagueManager/mod_clm_turnier.git
