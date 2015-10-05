@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <extension type="package" version="2.5" method="upgrade">
  <name>CLM - Core</name>
- <creationDate>20.08.2015</creationDate>
+ <creationDate>05.10.2015</creationDate>
  <packagename>clm</packagename>
  <author>CLM Team</author>
- <version>3.2.1</version>
+ <version>3.2.2</version>
  <packager>CLM Team</packager>
  <packagerurl>www.chessleaguemanager.de</packagerurl>
  	<description>
