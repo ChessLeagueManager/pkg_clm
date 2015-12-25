@@ -26,14 +26,14 @@
 		 ]]>
 	</description>
  <files folder="packages">
-   <file type="component" id="clm" >com_clm</file>
-   <file type="module" id="clm" client="site" >mod_clm</file>
-   <file type="module" id="clm" client="site" >mod_clm_archiv</file>
-   <file type="module" id="clm" client="site" >mod_clm_dwz</file>
-   <file type="module" id="clm" client="site" >mod_clm_log</file>
-   <file type="module" id="clm" client="site" >mod_clm_minitab</file>
-   <file type="module" id="clm" client="site" >mod_clm_termine</file>
-   <file type="module" id="clm" client="site" >mod_clm_turnier</file>
+   <file type="component" id="com_clm" >com_clm</file>
+   <file type="module" id="mod_clm" client="site" >mod_clm</file>
+   <file type="module" id="mod_clm_archiv" client="site" >mod_clm_archiv</file>
+   <file type="module" id="mod_clm_dwz" client="site" >mod_clm_dwz</file>
+   <file type="module" id="mod_clm_log" client="site" >mod_clm_log</file>
+   <file type="module" id="mod_clm_minitab" client="site" >mod_clm_minitab</file>
+   <file type="module" id="mod_clm_termine" client="site" >mod_clm_termine</file>
+   <file type="module" id="mod_clm_turnier" client="site" >mod_clm_turnier</file>
  </files>
  <updateservers>
     <server type="extension" priority="1" name="CLM Update Site (Testing)">http://chessleaguemanager.de/updateServer/testing1.xml</server>
