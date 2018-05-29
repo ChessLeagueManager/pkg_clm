@@ -34,6 +34,9 @@
    <file type="module" id="mod_clm_minitab" client="site" >mod_clm_minitab</file>
    <file type="module" id="mod_clm_termine" client="site" >mod_clm_termine</file>
    <file type="module" id="mod_clm_turnier" client="site" >mod_clm_turnier</file>
+   <file type="component" id="com_clm_ext" >com_clm_ext</file>
+   <file type="module" id="mod_clm_ext" client="site" >mod_clm_ext</file>
+   <file type="component" id="com_clm_turnier" >com_clm_turnier</file>
  </files>
  <updateservers>
     <server type="extension" priority="1" name="CLM Update Site (Testing)">http://chessleaguemanager.de/updateServer/testing1.xml</server>
