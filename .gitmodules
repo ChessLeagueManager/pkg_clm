@@ -22,3 +22,15 @@
 [submodule "packages/mod_clm_turnier"]
 	path = packages/mod_clm_turnier
 	url = https://github.com/ChessLeagueManager/mod_clm_turnier.git
+	
+[submodule "packages/com_clm_turnier"]
+	path = packages/com_clm_turnier
+	url = https://github.com/ChessLeagueManager/com_clm_turnier.git
+	
+[submodule "packages/com_clm_ext"]
+	path = packages/com_clm_ext
+	url = https://github.com/ChessLeagueManager/com_clm_ext.git	
+	
+[submodule "packages/mod_clm_ext"]
+	path = packages/mod_clm_ext
+	url = https://github.com/ChessLeagueManager/mod_clm_ext.git	
