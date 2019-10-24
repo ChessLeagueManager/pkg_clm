@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <extension type="package" version="2.5" method="upgrade">
  <name>CLM - Core</name>
- <creationDate>17.02.2019</creationDate>
+ <creationDate>23.10.2019</creationDate>
  <packagename>clm</packagename>
  <author>CLM Team</author>
- <version>3.7.0</version>
+ <version>3.7.3</version>
  <packager>CLM Team</packager>
  <packagerurl>www.chessleaguemanager.de</packagerurl>
  	<description>
 		<![CDATA[
 	 	<img src="components/com_clm/images/clm_logo.png" alt="" align="left" />
-		 <h3>CLM - Chess League Manager :</h3>
-		 <p>Die CLM Komponente ist ein Ligamanager für Schachligen.</p>
+		 <h3>CLM - Chess League Manager :  3.7.3  [23-10-2019]</h3>
+		 <p>Die CLM Komponente ist ein Ligamanager für Schachligen und mehr...</p>
 		 <a href="http://www.chessleaguemanager.de" target="blank">CLM Projekt Homepage</a>  |  <a href="http://www.chessleaguemanager.de/index.php?option=com_kunena" target="blank">Support Forum</a>
 		 <br><br>
 		 <u>CLM Team :</u>
 		 <ul type="square">
 		 <li>Thorsten Ahlers, Support Forum &amp; Homepage</li>
-		 <li>Klaus Bärthel, PDF Viewer, Mannschaftsturniere</li>
-		 <li>Andreas Dorn, DWZ Auswertung &amp; ELO Base Export</li>
+		 <li>Klaus Bärthel, PDF Viewer, Mannschaftsturniere &amp; viel mehr...</li>
+		 <li>Marcel Link, CLM 3 &amp; mehr...</li>
+		 <li>Martin Blascyk, CLM 3 in England &amp; Übersetzungen &amp; Testing</li>
+		 <li>Klaus-Peter Thronicke, Support Forum, Testing &amp; Homepage</li>
+ 		 <li>Andreas Hrubesch, Turniererweiterung (Grand Prix Wertung)</li>
+		 <li>Andreas Dorn, DWZ Auswertung &amp; ELO Base Export (jetzt DeWIS)</li>
 		 <li>Helge Frowein, Einzelturniermodus</li>
 		 <li>Daniel Mohr, Support Forum &amp; Homepage</li>
 		 <li>Fjodor Schäfer, Design CLM &amp; Projektseite</li>
