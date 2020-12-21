@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <extension type="package" version="2.5" method="upgrade">
  <name>CLM - Core</name>
- <creationDate>22.08.2020</creationDate>
+ <creationDate>20.12.2020</creationDate>
  <packagename>clm</packagename>
  <author>CLM Team</author>
- <version>3.8.4</version>
+ <version>3.9.0</version>
  <packager>CLM Team</packager>
  <packagerurl>www.chessleaguemanager.de</packagerurl>
  	<description>
 		<![CDATA[
 	 	<img src="components/com_clm/images/clm_logo.png" alt="" align="left" />
-		 <h3>CLM - Chess League Manager :  3.8.4  [22-08-2020]</h3>
+		 <h3>CLM - Chess League Manager :  3.9.0  [20-12-2020]</h3>
 		 <p>Die CLM Komponente ist ein Ligamanager für Schachligen und mehr...</p>
 		 <a href="http://www.chessleaguemanager.de" target="blank">CLM Projekt Homepage</a>  |  <a href="http://www.chessleaguemanager.de/index.php?option=com_kunena" target="blank">Support Forum</a>
 		 <br><br>
@@ -41,6 +41,7 @@
    <file type="component" id="com_clm_ext" >com_clm_ext</file>
    <file type="module" id="mod_clm_ext" client="site" >mod_clm_ext</file>
    <file type="component" id="com_clm_turnier" >com_clm_turnier</file>
+   <file type="plugin" id="plg_content_clm_show_ext" >plg_content_clm_show_ext</file>
  </files>
  <updateservers>
     <server type="extension" priority="1" name="CLM Update Site (Testing)">http://chessleaguemanager.de/updateServer/testing1.xml</server>
