@@ -34,3 +34,7 @@
 [submodule "packages/mod_clm_ext"]
 	path = packages/mod_clm_ext
 	url = https://github.com/ChessLeagueManager/mod_clm_ext.git	
+	
+[submodule "packages/plg_content_clm_show_ext"]
+	path = packages/plg_content_clm_show_ext
+	url = https://github.com/ChessLeagueManager/plg_content_clm_show_ext.git	
